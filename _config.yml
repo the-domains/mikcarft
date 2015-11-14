@@ -1,0 +1,23 @@
+name: MikCarft
+favicon: null
+layout_spectrum: 0.4769696064759046
+typography_spectrum: 0.5509973922744393
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9864377917256206
+  lightness: 0.9018641524016857
+  saturation: 0.9209447214379907
+  rhythmicContrast: 0.7997865870129317
+purpose: []
