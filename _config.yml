@@ -1,5 +1,4 @@
-favicon: null
-name: MikCarft
+layout_spectrum: 0.7996778
 opengraph:
   image: null
   type: null
@@ -10,31 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.9209447214379907
+  saturation: 1
   brandStrength: 0.5
-  rhythmicContrast: 0.7997865870129317
+  lightness: 1
   brandColors:
     - '#030303'
     - '#000000'
     - '#010101'
     - '#010101'
     - '#010101'
-  lightness: 0.9018641524016857
-typography_spectrum: 0.5509973922744393
+  rhythmicContrast: 1
+typography_spectrum: 0.5032223
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.7996778
 analytics:
   twitter: null
   google: ' UA-70089190-1'
   facebook: null
+favicon: null
+name: MikCarft
