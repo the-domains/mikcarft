@@ -1,28 +1,40 @@
-name: MikCarft
 favicon: null
-layout_spectrum: 0.49127
-typography_spectrum: 0.5509973922744393
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: ' UA-70089190-1'
-  facebook: null
-  twitter: null
+name: MikCarft
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.9209447214379907
+  brandStrength: 0.5
+  rhythmicContrast: 0.7997865870129317
   brandColors:
     - '#030303'
     - '#000000'
     - '#010101'
     - '#010101'
     - '#010101'
-  brandStrength: 0.5
   lightness: 0.9018641524016857
-  saturation: 0.9209447214379907
-  rhythmicContrast: 0.7997865870129317
-purpose: []
+typography_spectrum: 0.5509973922744393
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.7996778
+analytics:
+  twitter: null
+  google: ' UA-70089190-1'
+  facebook: null
